@@ -50,7 +50,7 @@ footer{
   background-color: #333
 }
 footer p{
-  color: beige;
+  font-color: beige;
 }
 
 div li{
@@ -77,5 +77,5 @@ height: 175px;
 }
 div.content{
     margin-top: 100px;
-
 }
+
