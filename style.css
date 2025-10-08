@@ -49,6 +49,9 @@ main{
 footer{
   background-color: #333
 }
+footer p{
+  color: beige;
+}
 
 div li{
   width: auto;
@@ -74,4 +77,5 @@ height: 175px;
 }
 div.content{
     margin-top: 100px;
+
 }
